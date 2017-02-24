@@ -3,8 +3,10 @@
  */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
-  color: #555;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5em;
+  color: black;
+  font-weight: 100;
 }
 
 h1, .h1,
@@ -89,8 +91,8 @@ h6, .h6 {
   font-weight: normal;
 }
 .blog-description {
-  font-size: 20px;
-  color: #999;
+  font-size: 15px;
+  color: black;
 }
 
 
@@ -139,6 +141,7 @@ h6, .h6 {
 
 .blog-post {
   margin-bottom: 60px;
+  font-size: 17px;
 }
 .blog-post-title {
   margin-bottom: 5px;
